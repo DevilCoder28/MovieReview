@@ -28,7 +28,7 @@ A cross-platform mobile application built using **Flutter** that allows users to
 
 > Add screenshots here  
 > ![Home Screen](screenshots/home_screen.jpg)  
-> ![Movie Details](screenshots/movie_details.png)
+> ![Movie Details](screenshots/movie_detail.jpg)
 
 ---
 
