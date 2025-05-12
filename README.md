@@ -27,7 +27,7 @@ A cross-platform mobile application built using **Flutter** that allows users to
 ## 📸 Screenshots
 
 > Add screenshots here  
-> ![Home Screen](screenshots/home_screen.png)  
+> ![Home Screen](screenshots/home_screen.jpg)  
 > ![Movie Details](screenshots/movie_details.png)
 
 ---
