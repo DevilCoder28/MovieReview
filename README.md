@@ -11,7 +11,7 @@ A cross-platform mobile application built using **Flutter** that allows users to
 - 🌐 Fetch data using TMDb API  
 - 🖼️ Display movie posters and backdrops  
 - 📱 Responsive UI for Android & iOS  
-- 🌙 Dark and light mode support (optionals)
+- 🌙 Dark and light mode support (optionalss)
 
 ---
 
@@ -48,5 +48,6 @@ A cross-platform mobile application built using **Flutter** that allows users to
    ```bash
    git clone https://github.com/your-username/movie-review-app.git
    cd movie-review-app
+
 
 
