@@ -17,7 +17,7 @@ A cross-platform mobile application built using **Flutter** that allows users to
 
 ## 🛠️ Tech Stack
 
-- **Framework**: Flutter  
+- **Framework**: Flutters
 - **Language**: Dart  
 - **API**: [TMDb API](https://www.themoviedb.org/documentation/api)  
 - **IDE**: Android Studio / VS Code  
@@ -48,3 +48,4 @@ A cross-platform mobile application built using **Flutter** that allows users to
    ```bash
    git clone https://github.com/your-username/movie-review-app.git
    cd movie-review-app
+
